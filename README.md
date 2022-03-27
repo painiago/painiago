@@ -1,4 +1,4 @@
- Hi, eu sou o Iago Nascimento, desenvolvedor front-end 👋
+ Hi, eu sou o Iago Nascimento 👋
  <br>
   🖋 Gosto de desenhar nas horas vagas 
   <br>
