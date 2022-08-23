@@ -10,3 +10,4 @@
  	 <a href="https://www.linkedin.com/in/iagonascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.tiktok.com/@painiago" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 
+![Iago GitHub stats](https://github-readme-stats.vercel.app/api?username=painiago&show_icons=true&theme=radical)
